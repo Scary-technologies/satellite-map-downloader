@@ -19,5 +19,5 @@
 
 1. کلون کردن مخزن:
 ```bash
-git clone https://github.com/yourusername/satellite-map-downloader.git
+git clone https://github.com/Scary-technologies/satellite-map-downloader.git
 cd satellite-map-downloader
